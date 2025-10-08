@@ -1,2 +1,2 @@
-# Word-Guessing-Game-with-Python
-Basic word guessing game
+# Word Guessing Game with Python
+First simple game project!
